@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI Text Input": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govti",
+    "body": [
+      "<Input name=\"$1\">",
+      "\t<Label classes=\"govuk-label--l\" isPageHeading>",
+      "\t\t$2",
+      "\t</Label>",
+      "</Input>"
+    ],
+    "description": "GOVUK-UI Text Input"
+  },
+}

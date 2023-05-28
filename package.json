@@ -42,6 +42,10 @@
       {
         "language": "javascript",
         "path": "./snippets/date-input.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/text-input.code-snippets"
       }
     ]
   }

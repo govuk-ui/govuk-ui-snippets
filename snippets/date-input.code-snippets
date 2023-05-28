@@ -1,5 +1,5 @@
 {
-  "GOVUK-UI Checkboxes": {
+  "GOVUK-UI Date Input": {
     "scope": "javascript,typescript,jsx,tsx,javascriptreact",
     "prefix": "govd",
     "body": [
