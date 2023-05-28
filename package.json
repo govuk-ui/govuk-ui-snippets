@@ -66,6 +66,10 @@
       {
         "language": "javascript",
         "path": "./snippets/error-summary.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/file-upload.code-snippets"
       }
     ]
   }

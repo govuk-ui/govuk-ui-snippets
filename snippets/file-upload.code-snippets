@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI File Upload": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govfu",
+    "body": [
+      "<FileUpload name=\"$1\">",
+      "\t<Label>",
+      "\t\t$2",
+      "\t</Label>",
+      "</FileUpload>"
+    ],
+    "description": "GOVUK-UI File Upload"
+  },
+}
