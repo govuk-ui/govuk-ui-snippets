@@ -54,6 +54,10 @@
       {
         "language": "javascript",
         "path": "./snippets/back-link.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/breadcrumbs.code-snippets"
       }
     ]
   }

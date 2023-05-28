@@ -1,0 +1,21 @@
+{
+  "GOVUK-UI Breadcrumbs": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govbc",
+    "body": [
+      "<Breadcrumbs>",
+      "\t<BreadcrumbItem>",
+      "\t\t<a href=\"$1\" className=\"govuk-breadcrumbs__link\">",
+      "\t\t\t$2",
+      "\t\t</a>",
+      "\t</BreadcrumbItem>",
+      "\t<BreadcrumbItem>",
+      "\t\t<a href=\"$3\" className=\"govuk-breadcrumbs__link\">",
+      "\t\t\t$4",
+      "\t\t</a>",
+      "\t</BreadcrumbItem>",
+      "</Breadcrumbs>"
+    ],
+    "description": "GOVUK-UI Breadcrumbs"
+  },
+}
