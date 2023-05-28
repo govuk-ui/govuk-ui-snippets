@@ -1,0 +1,24 @@
+{
+  "GOVUK-UI Radios": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govr",
+    "body": [
+      "<Radios name=\"$1\">",
+      "  <Legend classes=\"govuk-fieldset__legend--l\" isPageHeading>",
+      "    $2",
+      "  </Legend>",
+      "  <RadioItem value=\"$3\">",
+      "    <Label>",
+      "      $4",
+      "    </Label>",
+      "  </RadioItem>",
+      "  <RadioItem value=\"$5\">",
+      "    <Label>",
+      "      $6",
+      "   </Label>",
+      "  </RadioItem>",
+      "</Radios>"
+    ],
+    "description": "GOVUK-UI Radios"
+  },
+}

@@ -1,0 +1,22 @@
+{
+  "GOVUK-UI Typography": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govt",
+    "body": [
+      "<Typography>",
+      "  $1",
+      "</Typography>"
+    ],
+    "description": "GOVUK-UI Typography"
+  },
+  "GOVUK-UI Typography H1": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govth1",
+    "body": [
+      "<Typography component=\"h1\">",
+      "  $1",
+      "</Typography>"
+    ],
+    "description": "GOVUK-UI Typography H1"
+  },
+}

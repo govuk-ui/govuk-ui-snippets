@@ -1,0 +1,40 @@
+{
+  "name": "govuk-ui-snippets",
+  "displayName": "govuk-ui-snippets",
+  "description": "React component snippets for govuk-ui",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "javascript",
+      "aliases": [
+        "JavaScript",
+        "javascript",
+        "js",
+        "jsx"
+      ],
+      "extensions": [
+        ".js",
+        ".es6",
+        ".jsx",
+        ".ts",
+        ".tsx"
+      ]
+    }],
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/typography.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/radios.code-snippets"
+      }
+    ]
+  }
+}
