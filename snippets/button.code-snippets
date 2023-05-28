@@ -1,0 +1,12 @@
+{
+  "GOVUK-UI Button": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govb",
+    "body": [
+      "<Button>",
+      "\t$1",
+      "</Button>"
+    ],
+    "description": "GOVUK-UI Button"
+  },
+}

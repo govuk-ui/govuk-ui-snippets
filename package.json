@@ -46,6 +46,10 @@
       {
         "language": "javascript",
         "path": "./snippets/text-input.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/button.code-snippets"
       }
     ]
   }
