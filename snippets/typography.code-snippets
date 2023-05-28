@@ -4,7 +4,7 @@
     "prefix": "govt",
     "body": [
       "<Typography>",
-      "  $1",
+      "\t$1",
       "</Typography>"
     ],
     "description": "GOVUK-UI Typography"

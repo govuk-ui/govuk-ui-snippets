@@ -1,0 +1,29 @@
+{
+  "GOVUK-UI Checkboxes": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govc",
+    "body": [
+      "<Checkboxes name=\"$1\">",
+      "\t<Legend classes=\"govuk-fieldset__legend--l\" isPageHeading>",
+      "\t\t$2",
+      "\t</Legend>",
+      "\t<CheckboxItem value=\"$3\">",
+      "\t\t<Label>",
+      "\t\t\t$4",
+      "\t\t</Label>",
+      "\t</CheckboxItem>",
+      "\t<CheckboxItem value=\"$5\">",
+      "\t\t<Label>",
+      "\t\t\t$6",
+      "\t\t</Label>",
+      "\t</CheckboxItem>",
+      "\t<CheckboxItem value=\"$7\">",
+      "\t\t<Label>",
+      "\t\t\t$8",
+      "\t\t</Label>",
+      "\t</CheckboxItem>",
+      "</Checkboxes>"
+    ],
+    "description": "GOVUK-UI Checkboxes"
+  },
+}
