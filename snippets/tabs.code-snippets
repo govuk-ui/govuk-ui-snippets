@@ -1,7 +1,7 @@
 {
   "GOVUK-UI Tabs": {
     "scope": "javascript,typescript,jsx,tsx,javascriptreact",
-    "prefix": "govt",
+    "prefix": "govtab",
     "body": [
       "<Tabs>",
       "\t<TabItem id=\"$1\" label=\"$2\">",

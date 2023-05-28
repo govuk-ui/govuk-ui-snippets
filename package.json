@@ -94,6 +94,10 @@
       {
         "language": "javascript",
         "path": "./snippets/tabs.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/textarea.code-snippets"
       }
     ]
   }

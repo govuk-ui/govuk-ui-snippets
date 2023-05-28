@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI Textarea": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govta",
+    "body": [
+      "<Textarea name=\"$1\">",
+      "\t<Label classes=\"govuk-label--l\" isPageHeading>",
+      "\t\t$2",
+      "\t</Label>",
+      "</Textarea>"
+    ],
+    "description": "GOVUK-UI Textarea"
+  },
+}
