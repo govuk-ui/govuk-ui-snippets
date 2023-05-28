@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI Character Count": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govcc",
+    "body": [
+      "<CharacterCount name=\"$1\" maxLength={$2}>",
+      "\t<Label classes=\"govuk-label--l\" isPageHeading>",
+      "\t\t$3",
+      "\t</Label>",
+      "</CharacterCount>"
+    ],
+    "description": "GOVUK-UI Character Count"
+  },
+}

@@ -58,6 +58,10 @@
       {
         "language": "javascript",
         "path": "./snippets/breadcrumbs.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/character-count.code-snippets"
       }
     ]
   }
