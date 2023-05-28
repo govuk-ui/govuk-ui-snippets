@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI Error Summary": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "goves",
+    "body": [
+      "<ErrorSummary>",
+      "\t<ErrorSummaryMessage id=\"$1\">",
+      "\t\t$2",
+      "\t</ErrorSummaryMessage>",
+      "</ErrorSummary>"
+    ],
+    "description": "GOVUK-UI Error Summary"
+  },
+}

@@ -62,6 +62,10 @@
       {
         "language": "javascript",
         "path": "./snippets/character-count.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/error-summary.code-snippets"
       }
     ]
   }
