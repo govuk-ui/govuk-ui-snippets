@@ -1,0 +1,12 @@
+{
+  "GOVUK-UI Inset Text": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govit",
+    "body": [
+      "<InsetText>",
+      "\t$1",
+      "</InsetText>"
+    ],
+    "description": "GOVUK-UI Inset Text"
+  },
+}

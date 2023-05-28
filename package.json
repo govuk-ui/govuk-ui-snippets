@@ -78,6 +78,10 @@
       {
         "language": "javascript",
         "path": "./snippets/header.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/inset-text.code-snippets"
       }
     ]
   }
