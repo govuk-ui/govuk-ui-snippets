@@ -82,6 +82,10 @@
       {
         "language": "javascript",
         "path": "./snippets/inset-text.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/phase-banner.code-snippets"
       }
     ]
   }

@@ -1,0 +1,12 @@
+{
+  "GOVUK-UI Phase Banner": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govpb",
+    "body": [
+      "<PhaseBanner phase=\"$1\">",
+      "\t$2",
+      "</PhaseBanner>"
+    ],
+    "description": "GOVUK-UI Phase Banner"
+  },
+}
