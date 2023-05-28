@@ -1,0 +1,14 @@
+{
+  "GOVUK-UI Select": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govs",
+    "body": [
+      "<Select id=\"$1\">",
+      "\t<SelectItem value=\"$2\">$3</SelectItem>",
+      "\t<SelectItem value=\"$3\">$4</SelectItem>",
+      "\t<SelectItem value=\"$5\">$6</SelectItem>",
+      "</Select>"
+    ],
+    "description": "GOVUK-UI Select"
+  },
+}
