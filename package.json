@@ -70,6 +70,10 @@
       {
         "language": "javascript",
         "path": "./snippets/file-upload.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/footer.code-snippets"
       }
     ]
   }

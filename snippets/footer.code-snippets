@@ -1,0 +1,10 @@
+{
+  "GOVUK-UI Footer": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govf",
+    "body": [
+      "<Footer />"
+    ],
+    "description": "GOVUK-UI Footer"
+  },
+}
