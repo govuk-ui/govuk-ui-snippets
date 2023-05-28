@@ -1,0 +1,17 @@
+{
+  "GOVUK-UI Checkboxes": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govd",
+    "body": [
+      "<DateInput id=\"$1\">",
+      "\t<Legend classes=\"govuk-fieldset__legend--l\" isPageHeading>",
+      "\t\t$2",
+      "\t</Legend>",
+      "\t<Hint>",
+      "\t\t$3",
+      "\t</Hint>",
+      "</DateInput>",
+    ],
+    "description": "GOVUK-UI Date Input"
+  },
+}

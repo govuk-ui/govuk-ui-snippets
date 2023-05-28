@@ -38,6 +38,10 @@
       {
         "language": "javascript",
         "path": "./snippets/checkboxes.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/date-input.code-snippets"
       }
     ]
   }
