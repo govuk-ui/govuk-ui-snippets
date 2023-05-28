@@ -86,11 +86,14 @@
       {
         "language": "javascript",
         "path": "./snippets/phase-banner.code-snippets"
-      }
-      ,
+      },
       {
         "language": "javascript",
         "path": "./snippets/select.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/tabs.code-snippets"
       }
     ]
   }
