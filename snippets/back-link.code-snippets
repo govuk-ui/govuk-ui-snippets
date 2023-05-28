@@ -1,0 +1,10 @@
+{
+  "GOVUK-UI Back Link": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govbl",
+    "body": [
+      "<BackLink href=\"$1\" />"
+    ],
+    "description": "GOVUK-UI Back Link"
+  },
+}

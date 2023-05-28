@@ -50,6 +50,10 @@
       {
         "language": "javascript",
         "path": "./snippets/button.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/back-link.code-snippets"
       }
     ]
   }
