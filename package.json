@@ -74,6 +74,10 @@
       {
         "language": "javascript",
         "path": "./snippets/footer.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/header.code-snippets"
       }
     ]
   }

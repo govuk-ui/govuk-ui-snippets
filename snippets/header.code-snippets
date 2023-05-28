@@ -1,0 +1,10 @@
+{
+  "GOVUK-UI Header": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govh",
+    "body": [
+      "<Header homepageUrl=\"$1\" />"
+    ],
+    "description": "GOVUK-UI Header"
+  },
+}
