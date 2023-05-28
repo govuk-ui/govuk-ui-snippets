@@ -98,6 +98,10 @@
       {
         "language": "javascript",
         "path": "./snippets/textarea.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/warning-text.code-snippets"
       }
     ]
   }

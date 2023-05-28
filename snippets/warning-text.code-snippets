@@ -1,0 +1,12 @@
+{
+  "GOVUK-UI Warning Texr": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact",
+    "prefix": "govwt",
+    "body": [
+      "<WarningText iconFallbackText=\"$1\">",
+      "\t$2",
+      "</WarningText>"
+    ],
+    "description": "GOVUK-UI Warning Text"
+  },
+}
