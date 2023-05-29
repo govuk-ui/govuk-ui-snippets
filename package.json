@@ -3,7 +3,7 @@
   "displayName": "govuk-ui-snippets",
   "description": "React component snippets for govuk-ui",
   "publisher": "GOVUK-UI",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/govuk-ui/govuk-ui-snippets"
@@ -15,22 +15,24 @@
     "Snippets"
   ],
   "contributes": {
-    "languages": [{
-      "id": "javascript",
-      "aliases": [
-        "JavaScript",
-        "javascript",
-        "js",
-        "jsx"
-      ],
-      "extensions": [
-        ".js",
-        ".es6",
-        ".jsx",
-        ".ts",
-        ".tsx"
-      ]
-    }],
+    "languages": [
+      {
+        "id": "javascript",
+        "aliases": [
+          "JavaScript",
+          "javascript",
+          "js",
+          "jsx"
+        ],
+        "extensions": [
+          ".js",
+          ".es6",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
+      }
+    ],
     "snippets": [
       {
         "language": "javascript",
