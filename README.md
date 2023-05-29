@@ -1,7 +1,6 @@
-# govuk-ui-snippets README
+# govuk-ui-snippets
 
-This is the README for your extension "govuk-ui-snippets". After writing up a brief description, we recommend including the following sections.
-
+A collection of React code snippets for the [GOVUK-UI](https://www.npmjs.com/package/govuk-ui) component library.
 
 ## Requirements
 
