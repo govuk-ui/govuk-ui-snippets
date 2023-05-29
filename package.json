@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/govuk-ui/govuk-ui-snippets"
   },
+  "icon": "images/govuk-ui-logo.jpg",
   "engines": {
     "vscode": "^1.78.0"
   },
