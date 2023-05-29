@@ -2,7 +2,12 @@
   "name": "govuk-ui-snippets",
   "displayName": "govuk-ui-snippets",
   "description": "React component snippets for govuk-ui",
+  "publisher": "GOVUK-UI",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/govuk-ui/govuk-ui-snippets"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
